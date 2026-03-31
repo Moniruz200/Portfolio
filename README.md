@@ -1,7 +1,7 @@
 # 👋 Sheikh Moniruz Zaman
 
 ## About Me
-I am a postgraduate Physics student at IIT PATNA, specializing in Higher Energy Physics and Nuclear Physics research. I work with IIT PATNA as a linguistic expert and am a well-known multilingual writer and poet. My academic journey combines theoretical physics with language and cultural studies.
+I am a postgraduate Physics student at CBPBU, WB, specializing in Higher Energy Physics and Nuclear Physics research. I work with IIT PATNA as a linguistic expert and am a well-known multilingual writer and poet. My academic journey combines theoretical physics with language and cultural studies.
 
 ## 🎯 Research Focus
 - **Field:** Nuclear Physics & Higher Energy Physics
